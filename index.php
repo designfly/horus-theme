@@ -1,5 +1,4 @@
-    test deploy
-    <?php get_header() ?>
+<?php get_header() ?>
 		<!-- slider start -->
 		<div id="slider" class="slider-col">
 			<div class="row-fluid">
