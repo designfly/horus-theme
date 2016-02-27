@@ -1,16 +1,16 @@
-<?php get_header() ?>
+test
+    <?php get_header() ?>
 		<!-- slider start -->
 		<div id="slider" class="slider-col">
 			<div class="row-fluid">
 				
 					
-<!--
+
 						<div class="camera_slider">
 							<div data-src="<?php echo get_template_directory_uri(); ?>/img/slide1.jpg"></div>
 							<div data-src="<?php echo get_template_directory_uri(); ?>/img/slide2.jpg"></div>
 						</div>
--->
-					
+
 			
 			</div>
 		</div>		
