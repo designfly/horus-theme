@@ -12,6 +12,7 @@
 		<!-- style -->
 		<link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
 		<link rel="stylesheet"href="<?php echo get_template_directory_uri(); ?>/fonts/font-awesome-4.1.0/css/font-awesome.min.css" rel="stylesheet">
+		<link rel="stylesheet"href="<?php echo get_template_directory_uri(); ?>/stylesheets/screen.css" rel="stylesheet">
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/bootstrap-3.1.1.min.css" >
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/designfly.css" rel="stylesheet">
 		<link rel="stylesheet" href="<?php echo get_template_directory_uri(); ?>/css/custom.css" rel="stylesheet">
