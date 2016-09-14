@@ -24,6 +24,7 @@
 		<link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" >
 		<?php wp_head() ?>
 	</head>
+	test srodowiska
 	<body <?php body_class()?> >
 
 		<header id="main-header">
